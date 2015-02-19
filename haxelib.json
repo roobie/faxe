@@ -1,0 +1,11 @@
+{
+  "name": "faxe",
+  "url": "https://github.com/roobie/faxe",
+  "license": "MIT",
+  "tags": [ "functional", "fp" ],
+  "description": "Functional programming for haxe",
+  "version": "0.0.1",
+  "releasenote": "Initial pre beta",
+  "contributors": [ "roobie" ],
+  "dependencies": {}
+}
